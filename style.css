@@ -2,4 +2,12 @@ body {
     margin: 0;
     background-color: antiquewhite;
 }
+h1{
+    color: burlywood;
+    text-align: center;
 
+}
+
+p{
+    color:azure
+}
